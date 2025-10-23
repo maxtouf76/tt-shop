@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "nom": "Pharmacie de l'Hôtel de Ville",
+        "adresse": "25 Place de l'Hôtel de Ville",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4432,
+        "longitude": 1.0999,
+        "telephone": "02 35 71 23 45",
+        "estDeGarde": true,
+        "horaires": {
+            "lundi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "mardi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "mercredi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "jeudi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "vendredi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "dimanche": [{"ouverture": "10:00", "fermeture": "13:00"}]
+        }
+    },
+    {
+        "id": 2,
+        "nom": "Pharmacie Saint-Marc",
+        "adresse": "45 Rue Saint-Marc",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4425,
+        "longitude": 1.0880,
+        "telephone": "02 35 70 12 34",
+        "estDeGarde": false,
+        "horaires": {
+            "lundi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "mardi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "mercredi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "jeudi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "vendredi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "18:00"}],
+            "dimanche": []
+        }
+    },
+    {
+        "id": 3,
+        "nom": "Pharmacie Jeanne d'Arc",
+        "adresse": "12 Place de la Pucelle",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4440,
+        "longitude": 1.0902,
+        "telephone": "02 35 71 56 78",
+        "estDeGarde": true,
+        "horaires": {
+            "lundi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "mardi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "mercredi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "jeudi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "vendredi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "samedi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "dimanche": [{"ouverture": "09:00", "fermeture": "13:00"}]
+        }
+    },
+    {
+        "id": 4,
+        "nom": "Pharmacie du Vieux Marché",
+        "adresse": "8 Place du Vieux Marché",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4428,
+        "longitude": 1.0877,
+        "telephone": "02 35 71 89 01",
+        "estDeGarde": false,
+        "horaires": {
+            "lundi": [{"ouverture": "09:00", "fermeture": "12:30"}, {"ouverture": "14:00", "fermeture": "19:00"}],
+            "mardi": [{"ouverture": "09:00", "fermeture": "12:30"}, {"ouverture": "14:00", "fermeture": "19:00"}],
+            "mercredi": [{"ouverture": "09:00", "fermeture": "12:30"}, {"ouverture": "14:00", "fermeture": "19:00"}],
+            "jeudi": [{"ouverture": "09:00", "fermeture": "12:30"}, {"ouverture": "14:00", "fermeture": "19:00"}],
+            "vendredi": [{"ouverture": "09:00", "fermeture": "12:30"}, {"ouverture": "14:00", "fermeture": "19:00"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "18:00"}],
+            "dimanche": []
+        }
+    },
+    {
+        "id": 5,
+        "nom": "Pharmacie de la Cathédrale",
+        "adresse": "32 Rue du Gros Horloge",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4418,
+        "longitude": 1.0889,
+        "telephone": "02 35 70 45 67",
+        "estDeGarde": false,
+        "horaires": {
+            "lundi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "mardi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "mercredi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "jeudi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "vendredi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "18:30"}],
+            "dimanche": []
+        }
+    },
+    {
+        "id": 6,
+        "nom": "Pharmacie Pasteur",
+        "adresse": "78 Boulevard de l'Yser",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4495,
+        "longitude": 1.0935,
+        "telephone": "02 35 71 34 56",
+        "estDeGarde": false,
+        "horaires": {
+            "lundi": [{"ouverture": "08:45", "fermeture": "19:45"}],
+            "mardi": [{"ouverture": "08:45", "fermeture": "19:45"}],
+            "mercredi": [{"ouverture": "08:45", "fermeture": "19:45"}],
+            "jeudi": [{"ouverture": "08:45", "fermeture": "19:45"}],
+            "vendredi": [{"ouverture": "08:45", "fermeture": "19:45"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "dimanche": []
+        }
+    },
+    {
+        "id": 7,
+        "nom": "Pharmacie des Carmes",
+        "adresse": "56 Place des Carmes",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4405,
+        "longitude": 1.0963,
+        "telephone": "02 35 70 78 90",
+        "estDeGarde": true,
+        "horaires": {
+            "lundi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "mardi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "mercredi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "jeudi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "vendredi": [{"ouverture": "08:00", "fermeture": "20:00"}],
+            "samedi": [{"ouverture": "08:30", "fermeture": "19:30"}],
+            "dimanche": [{"ouverture": "09:00", "fermeture": "18:00"}]
+        }
+    },
+    {
+        "id": 8,
+        "nom": "Pharmacie Beauvoisine",
+        "adresse": "102 Rue Beauvoisine",
+        "ville": "Rouen",
+        "codePostal": "76000",
+        "latitude": 49.4470,
+        "longitude": 1.0975,
+        "telephone": "02 35 71 23 98",
+        "estDeGarde": false,
+        "horaires": {
+            "lundi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "mardi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "mercredi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "jeudi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "vendredi": [{"ouverture": "09:00", "fermeture": "19:00"}],
+            "samedi": [{"ouverture": "09:00", "fermeture": "18:00"}],
+            "dimanche": []
+        }
+    }
+]
